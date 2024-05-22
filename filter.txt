@@ -52,6 +52,4 @@
 ||pagead2.googlesyndication.com^
 ||ade.googlesyndication.com^
 ||static.doubleclick.net^
-||googleads.g.doubleclick.net/pagead/id
-||play.google.com/log?format=json&hasfast=true&authuser=0
-||static.doubleclick.net/instream/ad_status.js
+||www.displayvertising.com^
