@@ -43,3 +43,6 @@
 ||widget.suphelper.top^
 ||v3.traincdn.com^
 ||1xlite-0095295.top^
+||notjdyincro.com^
+||www.googleadservices.com^
+||googleads.g.doubleclick.net^
