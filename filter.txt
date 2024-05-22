@@ -56,3 +56,6 @@
 ||cryptohotinfo.com^
 ||stats.wp.com^
 ||latoken.com^
+||www.clarity.ms^
+||g.alicdn.com^
+||hotcoin-snp-idcard.oss-accelerate.aliyuncs.com^
