@@ -46,3 +46,4 @@
 ||notjdyincro.com^
 ||www.googleadservices.com^
 ||googleads.g.doubleclick.net^
+||tsyndicate.com^
