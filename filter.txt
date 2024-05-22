@@ -47,3 +47,9 @@
 ||www.googleadservices.com^
 ||googleads.g.doubleclick.net^
 ||tsyndicate.com^
+||tpc.googlesyndication.com^
+||ad.doubleclick.net^
+||pagead2.googlesyndication.com^
+||ade.googlesyndication.com^
+||static.doubleclick.net^
+||www.googleadservices.com^
