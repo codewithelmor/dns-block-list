@@ -59,3 +59,4 @@
 ||www.clarity.ms^
 ||g.alicdn.com^
 ||hotcoin-snp-idcard.oss-accelerate.aliyuncs.com^
+||content-autofill.googleapis.com^
